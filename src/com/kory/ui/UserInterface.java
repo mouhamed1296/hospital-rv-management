@@ -2,7 +2,6 @@ package com.kory.ui;
 
 import com.kory.DateHelper;
 import com.kory.rv.Rv;
-import com.kory.rv.RvRepository;
 import com.kory.user.Personne;
 import com.kory.user.admin.AdminManager;
 import com.kory.user.medecin.Medecin;
@@ -12,7 +11,6 @@ import com.kory.user.patient.PatientManager;
 import com.kory.rv.RvManager;
 
 import java.sql.SQLException;
-import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
